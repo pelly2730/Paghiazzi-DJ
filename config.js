@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://pelly2730:<Fulmine30@>@pelly.d4wnv.mongodb.net/?retryWrites=true&w=majority&appName=Pelly",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
